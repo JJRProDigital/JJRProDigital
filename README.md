@@ -26,9 +26,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JJRProDigital&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-## Mis últimos vídeos de YouTube
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJRProDigital&layout=compact&theme=dark)                    
+
+## Mis últimos vídeos de YouTube
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![¡Conecta tu GPT a cualquier aplicación! Edita el SCHEMA fácilmente [Tutorial completo]](https://ytcards.demolab.com/?id=AxsDMlxivxc&title=%C2%A1Conecta+tu+GPT+a+cualquier+aplicaci%C3%B3n%21+Edita+el+SCHEMA+f%C3%A1cilmente+%5BTutorial+completo%5D&lang=en&timestamp=1713453657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¡Conecta tu GPT a cualquier aplicación! Edita el SCHEMA fácilmente [Tutorial completo]")](https://www.youtube.com/watch?v=AxsDMlxivxc)
 [![Creo un plugin con ChatGPT para SCRAPEAR linkedin 🔥](https://ytcards.demolab.com/?id=CSgXAyyYTFs&title=Creo+un+plugin+con+ChatGPT+para+SCRAPEAR+linkedin+%F0%9F%94%A5&lang=en&timestamp=1712851217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Creo un plugin con ChatGPT para SCRAPEAR linkedin 🔥")](https://www.youtube.com/watch?v=CSgXAyyYTFs)
