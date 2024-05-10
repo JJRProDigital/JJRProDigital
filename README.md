@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://juanjoserprofesionaldigital.com">Juan José Rodríguez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://media.licdn.com/dms/image/D4D16AQFRMMpjD_1jKw/profile-displaybackgroundimage-shrink_350_1400/0/1712176501999?e=1720656000&v=beta&t=3CoBRRLnMIPqVBcjhDlppKhdee8LQ9REPb__q39iKhE">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYmCPRyxAVLSpUh7J53DzEQ?style=social)](https://www.youtube.com/@juanjoser-prodigital?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/juanjoserprodigital?style=social)](https://www.twitch.tv/juanjoserprodigital)
