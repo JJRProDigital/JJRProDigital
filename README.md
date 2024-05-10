@@ -36,7 +36,7 @@
 <td width="50%">
 <h3 align="center">Asistente de Voz</h3>
 <div align="center">
-<a href="https://github.com/JJRProDigital/AsistenteVoz" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Asistente de Voz OpenAI"></a>
+<a href="https://github.com/JJRProDigital/AsistenteVoz" target="_blank"><img src="https://imgur.com/a/Gnqnpad" width="400" alt="Asistente de Voz OpenAI"></a>
 <p>
 <a href="https://github.com/JJRProDigital/AsistenteVoz" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
