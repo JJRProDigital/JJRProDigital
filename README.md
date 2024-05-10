@@ -6,7 +6,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@juanjoser-prodigital?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/juanjoserprodigital?style=social)](https://www.twitch.tv/juanjoserprodigital)
 [![GitHub followers](https://img.shields.io/github/followers/JJRProDigital?style=social)](https://github.com/JJRProDigital)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/921677072609456160/widget.png?style=shield)
 
 <!--
 **JJRProDigital/JJRProDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
