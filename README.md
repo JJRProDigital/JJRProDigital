@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@juanjoser-prodigital?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYmCPRyxAVLSpUh7J53DzEQ?style=social)](https://www.youtube.com/@juanjoser-prodigital?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/juanjoserprodigital?style=social)](https://www.twitch.tv/juanjoserprodigital)
 [![GitHub followers](https://img.shields.io/github/followers/JJRProDigital?style=social)](https://github.com/JJRProDigital)
 ![Discord Shield](https://discord.com/api/guilds/921677072089374782/widget.png?style=shield)
